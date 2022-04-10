@@ -36,7 +36,7 @@ that is used to detect disease based on symptoms provided by the patient.
 
 **WEBSITE LINK -** https://predisine.herokuapp.com/
 
-**VIDEO LINK -** https://drive.google.com/file/d/1JIy8aT4PqdlbapKoKxjUfZg8cba0aWUx/view?usp=sharing
+**VIDEO LINK -** https://youtu.be/dE2P6A6At3I
 
 **ACCURACY**
 
