@@ -22,9 +22,6 @@ that is used to detect disease based on symptoms provided by the patient.
 
 * A problem was seen during the prediction phase, as the prediction classes were predefined by the author of the dataset the model’s performance rigid to a certain extent. Hence, to solve this issue we coded some of our own custom predict functions keeping the dynamics of weighted data labels in consideration, making the predictions more agile and comprehensive
 
-* There are a few existing bugs in the proposed solution which are required to be removed in due time.
-
-
 **FUNCTIONALITIES**
 
 * We used symptoms dataset using which we have predicted the type of disease 
