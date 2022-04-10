@@ -62,7 +62,7 @@ df_s = pd.DataFrame(data)
 
 # model work
 
-model = pickle.load(open('/content/RFC_symptoms.pkl','rb'))
+model = pickle.load(open('RFC_symptoms.pkl','rb'))
 def predict(s1,s2,s3,s4,s5='vomiting',s6='vomiting',s7='vomiting'):
     l = [s1,s2,s3,s4,s5,s6,s7]
     print(l)
