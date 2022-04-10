@@ -1,5 +1,8 @@
 
-# Predisine
+# Predisine - Disease Detection System
+<hr></hr>
+<h2>Competition:- #HACK4BENGAL </h2>
+
 
 **PROBLEM STATEMENT**
 
@@ -33,28 +36,41 @@ that is used to detect disease based on symptoms provided by the patient.
     * Then enter atleast 4 symptoms and maximum upto 7 symptoms
     * Then use the predict button to predict the detected disease
 
+**WEBSITE LINK -** https://predisine.herokuapp.com/
+
+**VIDEO LINK -** 
+
 **ACCURACY**
 
 Our ML model got an accuracy of 98%
 
+**FUTURE DEVELOPMENTS**
+
+- [ ] More symptoms can be added for better detection of diseases
+
+- [ ] XRays,MRI and more scans can be added
+
+- [ ] Treatments Recommendation can be added for the predicted disease which can be integrated in the website
+
 **TECH STACK**
 
+![Sklearn](https://img.shields.io/badge/Sklearn-FB542B?style=for-the-badge&logo=Sklearn&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-1F5C2E?style=for-the-badge&logo=Numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-1058ED?style=for-the-badge&logo=Pandas&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-82C8D7?style=for-the-badge&logo=Seaborn&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FA325E?style=for-the-badge&logo=Streamlit&logoColor=white) ![Ngrok](https://img.shields.io/badge/Ngrok-D8D1D3?style=for-the-badge&logo=Ngrok&logoColor=000000) ![Heroku](https://img.shields.io/badge/Heroku-934AB8?style=for-the-badge&logo=Heroku&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-30C9ED?style=for-the-badge&logo=Kaggle&logoColor=white) 
 
-
-**CONCLUSION**
-
-Thus using this model we can accurately predict the type of corneal ulcers in the eyes
+<hr></hr>
 
 **CONTRIBUTED BY:-**
 
+<table>
+  <tr>
+<td align="center"><a href="https://github.com/aryacodez"><img src="https://avatars.githubusercontent.com/u/69688408?v=4" width="80px;" alt=""/><br /><sub><b>Arya Sarkar</b></sub></a></td>
+<td align="center"><a href="https://github.com/Suryageeks"><img src="https://avatars.githubusercontent.com/u/91842378?v=4" width="80px;" alt=""/><br /><sub><b> Surya Sarkar</b></sub></a></td>
+<td align="center"><a href="https://github.com/FaizanAnwar2801"><img src="https://avatars.githubusercontent.com/u/68819897?v=4" width="80px;" alt=""/><br /><sub><b>Faizan Anwar</b></sub></a></td>  
 
+  </tr>
+</table>
 
+<hr></hr>
 
-
-
-
-
-## 🔗 Links
-[![Kaggle](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/)
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)   
 
 
