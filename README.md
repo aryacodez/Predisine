@@ -1,7 +1,7 @@
 
 # PREDISINE - DISEASE DETECTION SYSTEM
 <hr></hr>
-<h2>Competition:- #HACK4BENGAL </h2>
+<h2>Competition:-</h2>
 
 
 **PROBLEM STATEMENT**
