@@ -46,7 +46,7 @@ Our ML model got an accuracy of 98%
 
 - [ ] More symptoms can be added for better detection of diseases
 
-- [ ] XRays,MRI and more scans can be added
+- [ ] XRays,MRI scans reports can be added for detection of diseases.
 
 - [ ] Treatments Recommendation can be added for the predicted disease which can be integrated in the website
 
