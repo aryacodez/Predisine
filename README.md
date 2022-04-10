@@ -1,5 +1,5 @@
 
-# Predisine - Disease Detection System
+# PREDISINE - DISEASE DETECTION SYSTEM
 <hr></hr>
 <h2>Competition:- #HACK4BENGAL </h2>
 
@@ -16,7 +16,7 @@ actions can be taken to cure the disease.
 Our solution **"Predisine"** is a Machine Learning Web based technology 
 that is used to detect disease based on symptoms provided by the patient.
 
-**Challenges We Faced**
+**CHALLENGES WE FACED**
 
 * During the development and training of the model, we came through a problem that the accuracy of the model was very low due to the inaccurate data encoding, this problem was solved through a better encoding approach where we considered a weighted value of every symptom label and hence boosted the accuracy from 24.35% to 98.69%
 
