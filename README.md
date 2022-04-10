@@ -25,7 +25,7 @@ that is used to detect disease based on symptoms provided by the patient.
 * There are a few existing bugs in the proposed solution which are required to be removed in due time.
 
 
-**Functionalities**
+**FUNCTIONALITIES**
 
 * We used symptoms dataset using which we have predicted the type of disease 
 * Then we have developed a ML model based on the dataset 
@@ -35,6 +35,7 @@ that is used to detect disease based on symptoms provided by the patient.
     * First we have to enter the patient name
     * Then enter atleast 4 symptoms and maximum upto 7 symptoms
     * Then use the predict button to predict the detected disease
+
 
 **WEBSITE LINK -** https://predisine.herokuapp.com/
 
