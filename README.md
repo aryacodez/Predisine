@@ -62,7 +62,8 @@ Our ML model got an accuracy of 98%
   <tr>
 <td align="center"><a href="https://github.com/aryacodez"><img src="https://avatars.githubusercontent.com/u/69688408?v=4" width="80px;" alt=""/><br /><sub><b>Arya Sarkar</b></sub></a></td>
 <td align="center"><a href="https://github.com/Suryageeks"><img src="https://avatars.githubusercontent.com/u/91842378?v=4" width="80px;" alt=""/><br /><sub><b> Surya Sarkar</b></sub></a></td>
-<td align="center"><a href="https://github.com/FaizanAnwar2801"><img src="https://avatars.githubusercontent.com/u/68819897?v=4" width="80px;" alt=""/><br /><sub><b>Faizan Anwar</b></sub></a></td>  
+<td align="center"><a href="https://github.com/FaizanAnwar2801"><img src="https://avatars.githubusercontent.com/u/68819897?v=4" width="80px;" alt=""/><br /><sub><b>Faizan Anwar</b></sub></a></td>
+<td align="center"><a href="https://github.com/Sarthakbose256"><img src="https://avatars.githubusercontent.com/u/68819897?v=4" width="80px;" alt=""/><br /><sub><b>Sarthak Bose</b></sub></a></td>
 
   </tr>
 </table>
